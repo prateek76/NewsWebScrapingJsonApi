@@ -5,7 +5,7 @@ Get JSON data of news to use in apps and websites
 
 * [Python](#) - Script
 * Urllib
-* [beautiful soup](#) - web scrapping
+* [beautiful soup](#) - web scraping
 
 ## Development setup
 
